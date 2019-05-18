@@ -1,0 +1,48 @@
+.container{
+	width: 600px;
+	height: 800px;
+	border: solid 2px red;
+	border-radius:20px;
+	background-color: lightskyblue;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-left:100px;
+
+	
+	
+	 
+}
+
+.quas{
+	width: 300px;
+	height: 200px;
+	border: solid 2px black;
+	background-color: yellow;
+
+	
+}
+.wex{
+	width: 100px;
+	height: 100px;
+	border: dotted 2px black;
+	background-color: lightgreen;
+	
+}
+.exort{
+	width:300px;
+	height: 200px;
+	border: dashed 2px black;
+	background-color: purple;
+	
+}
+.rain {
+	width:100px;
+	height: 100px;
+	border: solid 2px black;
+	background-color: pink;
+	
+	
+}
+
+
